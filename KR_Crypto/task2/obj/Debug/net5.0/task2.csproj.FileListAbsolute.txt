@@ -1,0 +1,16 @@
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\bin\Debug\net5.0\task2.exe
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\bin\Debug\net5.0\task2.deps.json
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\bin\Debug\net5.0\task2.runtimeconfig.json
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\bin\Debug\net5.0\task2.runtimeconfig.dev.json
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\bin\Debug\net5.0\task2.dll
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\bin\Debug\net5.0\ref\task2.dll
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\bin\Debug\net5.0\task2.pdb
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\task2.csprojAssemblyReference.cache
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\task2.AssemblyInfoInputs.cache
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\task2.AssemblyInfo.cs
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\task2.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\task2.dll
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\ref\task2.dll
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\task2.pdb
+D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\task2.genruntimeconfig.cache
