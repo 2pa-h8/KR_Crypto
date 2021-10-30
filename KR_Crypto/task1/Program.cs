@@ -38,9 +38,12 @@ namespace task1
             Console.WriteLine("После S перестановки         " + STrans);
             string PTrans = OtherFunc.Transposition(STrans, OtherFunc.tableP);
             Console.WriteLine("После P перестановки         " + PTrans);
-            string sum = l0 + PTrans;
-            Console.WriteLine("Сумма строк                  " + sum);
-            string result = OtherFunc.Transposition(sum, OtherFunc.arrP);
+
+            string r1 = OtherFunc.XOR(PTrans, l0);
+            Console.WriteLine("R1                           " + r1);
+
+            Console.WriteLine("Сумма строк                  " + r0 + r1);
+            string result = OtherFunc.Transposition(r0 + r1, OtherFunc.arrP);
             Console.WriteLine("Последняя перестановка       " + result + '\n');
 
         }
