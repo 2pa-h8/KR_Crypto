@@ -14,3 +14,19 @@ D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\task2.dll
 D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\ref\task2.dll
 D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\task2.pdb
 D:\Учеба\4 курс\Крипта\KR_Crypto\task2\obj\Debug\net5.0\task2.genruntimeconfig.cache
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\bin\Debug\net5.0\task2.exe
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\bin\Debug\net5.0\task2.deps.json
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\bin\Debug\net5.0\task2.runtimeconfig.json
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\bin\Debug\net5.0\task2.runtimeconfig.dev.json
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\bin\Debug\net5.0\task2.dll
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\bin\Debug\net5.0\ref\task2.dll
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\bin\Debug\net5.0\task2.pdb
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\task2.csproj.AssemblyReference.cache
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\task2.AssemblyInfoInputs.cache
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\task2.AssemblyInfo.cs
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\task2.csproj.CoreCompileInputs.cache
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\task2.dll
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\ref\task2.dll
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\task2.pdb
+C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\task2.genruntimeconfig.cache
