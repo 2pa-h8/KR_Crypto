@@ -18,15 +18,15 @@ namespace Helpers
 
             for (int i = 0; i < message_text.Length; i++)
             {
-                //if (message[i] != ' ')                
-                //    maSS += Convert.ToString(dict33[message[i]], 2);            
+                //if (message_text[i] != ' ')                
+                //    message += Convert.ToString(dict33[message[i]], 2);            
                 //else
-                //    maSS += "00010000";
+                //    message += "00010000";
 
                 if (message_text[i] != ' ')
                     message += System.Convert.ToString(Alphabet[message_text[i]], 2);
                 else
-                    message += "00100000";
+                    message += "00" + System.Convert.ToString(Alphabet[message_text[i]], 2);
             }
 
             return message;

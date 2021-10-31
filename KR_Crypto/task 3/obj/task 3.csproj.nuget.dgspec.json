@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\termi\\Source\\Repos\\KR_Crypto\\KR_Crypto\\task 3\\task 3.csproj": {}
+    "C:\\Users\\termi\\source\\repos\\KR_Crypto\\KR_Crypto\\task 3\\task 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\termi\\Source\\Repos\\KR_Crypto\\KR_Crypto\\task 3\\task 3.csproj": {
+    "C:\\Users\\termi\\source\\repos\\KR_Crypto\\KR_Crypto\\task 3\\task 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\termi\\Source\\Repos\\KR_Crypto\\KR_Crypto\\task 3\\task 3.csproj",
+        "projectUniqueName": "C:\\Users\\termi\\source\\repos\\KR_Crypto\\KR_Crypto\\task 3\\task 3.csproj",
         "projectName": "task 3",
-        "projectPath": "C:\\Users\\termi\\Source\\Repos\\KR_Crypto\\KR_Crypto\\task 3\\task 3.csproj",
+        "projectPath": "C:\\Users\\termi\\source\\repos\\KR_Crypto\\KR_Crypto\\task 3\\task 3.csproj",
         "packagesPath": "C:\\Users\\termi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\termi\\Source\\Repos\\KR_Crypto\\KR_Crypto\\task 3\\obj\\",
+        "outputPath": "C:\\Users\\termi\\source\\repos\\KR_Crypto\\KR_Crypto\\task 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\termi\\AppData\\Roaming\\NuGet\\NuGet.Config",

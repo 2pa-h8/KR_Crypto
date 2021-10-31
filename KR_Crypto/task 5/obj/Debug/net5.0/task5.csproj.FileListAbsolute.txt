@@ -14,3 +14,19 @@ D:\Учеба\4 курс\Крипта\KR_Crypto\task 5\obj\Debug\net5.0\task5.dl
 D:\Учеба\4 курс\Крипта\KR_Crypto\task 5\obj\Debug\net5.0\ref\task5.dll
 D:\Учеба\4 курс\Крипта\KR_Crypto\task 5\obj\Debug\net5.0\task5.pdb
 D:\Учеба\4 курс\Крипта\KR_Crypto\task 5\obj\Debug\net5.0\task5.genruntimeconfig.cache
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\bin\Debug\net5.0\task5.exe
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\bin\Debug\net5.0\task5.deps.json
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\bin\Debug\net5.0\task5.runtimeconfig.json
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\bin\Debug\net5.0\task5.runtimeconfig.dev.json
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\bin\Debug\net5.0\task5.dll
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\bin\Debug\net5.0\ref\task5.dll
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\bin\Debug\net5.0\task5.pdb
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\obj\Debug\net5.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\obj\Debug\net5.0\task5.AssemblyInfoInputs.cache
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\obj\Debug\net5.0\task5.AssemblyInfo.cs
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\obj\Debug\net5.0\task5.csproj.CoreCompileInputs.cache
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\obj\Debug\net5.0\task5.dll
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\obj\Debug\net5.0\ref\task5.dll
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\obj\Debug\net5.0\task5.pdb
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\obj\Debug\net5.0\task5.genruntimeconfig.cache
+C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task 5\obj\Debug\net5.0\task5.csproj.AssemblyReference.cache

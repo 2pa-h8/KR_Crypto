@@ -1,27 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\4 курс\\Крипта\\KR_Crypto\\task4\\task4.csproj": {}
+    "C:\\Users\\termi\\source\\repos\\KR_Crypto\\KR_Crypto\\task4\\task4.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\4 курс\\Крипта\\KR_Crypto\\task4\\task4.csproj": {
+    "C:\\Users\\termi\\source\\repos\\KR_Crypto\\KR_Crypto\\task4\\task4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\4 курс\\Крипта\\KR_Crypto\\task4\\task4.csproj",
+        "projectUniqueName": "C:\\Users\\termi\\source\\repos\\KR_Crypto\\KR_Crypto\\task4\\task4.csproj",
         "projectName": "task4",
-        "projectPath": "D:\\Учеба\\4 курс\\Крипта\\KR_Crypto\\task4\\task4.csproj",
-        "packagesPath": "C:\\Users\\Kiram\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\4 курс\\Крипта\\KR_Crypto\\task4\\obj\\",
+        "projectPath": "C:\\Users\\termi\\source\\repos\\KR_Crypto\\KR_Crypto\\task4\\task4.csproj",
+        "packagesPath": "C:\\Users\\termi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\termi\\source\\repos\\KR_Crypto\\KR_Crypto\\task4\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Kiram\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\termi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -60,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
