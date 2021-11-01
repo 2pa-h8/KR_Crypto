@@ -5,7 +5,7 @@ namespace task1
 {
     class Program
     {      
-        static void Main(string[] args) // МЕТОД DES
+        static void Main(string[] args) // Метод DES
         {
             Console.WriteLine("Введите сообщения из 8 символов");
 
