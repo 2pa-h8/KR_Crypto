@@ -1,21 +1,15 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Numerics;
-using System.Text;
 
 namespace task4
 {
     class Program
     {
-        static readonly char[] characters = new char[] { '#', 'А', 'Б', 'В', 'Г', 'Д', 'Е', 'Ё', 'Ж', 'З', 'И',
-                                                        'Й', 'К', 'Л', 'М', 'Н', 'О', 'П', 'Р', 'С',
-                                                        'Т', 'У', 'Ф', 'Х', 'Ц', 'Ч', 'Ш', 'Щ', 'Ь', 'Ы', 'Ъ',
-                                                        'Э', 'Ю', 'Я', ' ', '1', '2', '3', '4', '5', '6', '7',
-                                                        '8', '9', '0' };
-
-        static void Main(string[] args)
+        static void Main(string[] args) // Метод хэширования
         {
             Console.WriteLine("Введите сообщение:");
-            var msg = Console.ReadLine();
+            var msg = Console.ReadLine().ToUpper();
 
             Console.WriteLine("Введите 2 простых числа p и q:");
 
@@ -31,14 +25,21 @@ namespace task4
             Console.WriteLine("Слово " + msg + " Можно представить последовательностью чисел:");
             foreach (int i in arr)
             {
-                Console.WriteLine(i);
+                Console.Write($"{i}, ");
             }
+            Console.WriteLine();
 
-            int result = hashEncoder(arr, n, h0);
+            int result = Hashing.generating(arr, n, h0);
             Console.WriteLine("Хэш-образ: " + result.ToString());
-
-
         }
+
+        static public Dictionary<char, int> Alphabet = new Dictionary<char, int>()
+        {
+            { 'А', 1 }, { 'Б', 2 }, { 'В', 3 }, { 'Г', 4 }, { 'Д', 5 }, { 'Е', 6 }, { 'Ё', 7 }, { 'Ж', 8 }, { 'З', 9 }, { 'И', 10 }, { 'Й', 11 },
+            { 'К', 12 }, { 'Л', 13 }, { 'М', 14 }, { 'Н', 15 }, { 'О', 16 }, { 'П', 17 }, { 'Р', 18 }, { 'С', 19 }, { 'Т', 20 }, { 'У', 21 },
+            { 'Ф', 22 }, { 'Х', 23 }, { 'Ц', 24 }, { 'Ч', 25 }, { 'Ш', 26 }, { 'Щ', 27 }, { 'Ъ', 28 }, { 'Ы', 29 }, { 'Ь', 30 }, { 'Э', 31 },
+            { 'Ю', 32 }, { 'Я', 33 }
+        };
 
         //Возвращает массив чисел, соответствующий номерам букв в алфавите
         static int[] getNumbers(string msg)
@@ -47,32 +48,10 @@ namespace task4
 
             for (int i = 0; i < msg.Length; i++)
             {
-                int index = Array.IndexOf(characters, msg[i]);
+                int index = Alphabet[msg[i]];
                 numbers[i] = index;
             }
             return numbers;
-        }
-
-        static int hashEncoder(int[] arr, int n, int h0)
-        {
-            StringBuilder sb = new StringBuilder();
-            BigInteger eBig = new BigInteger(2);
-            BigInteger nBig = new BigInteger((int)n);
-            BigInteger m;
-            BigInteger sum;
-
-            BigInteger h1 = new BigInteger(h0+arr[0]);
-            BigInteger h = BigInteger.ModPow(h1, eBig,nBig);
-
-            for (int i = 1; i < arr.Length; i++)
-            {
-                m = new BigInteger(arr[i]);
-                sum = h + m;
-                h = BigInteger.ModPow(sum, eBig, nBig);
-            }
-            
-            return (int)h;
-        }
-
+        }     
     }
 }
