@@ -29,4 +29,3 @@ C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\task2.dll
 C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\ref\task2.dll
 C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\task2.pdb
 C:\Users\termi\Source\Repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\task2.genruntimeconfig.cache
-C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task2\obj\Debug\net5.0\task2.csproj.AssemblyReference.cache

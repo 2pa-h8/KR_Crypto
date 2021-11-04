@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace Helpers
+namespace Helpers.task1
 {
     class OtherFunc
     {

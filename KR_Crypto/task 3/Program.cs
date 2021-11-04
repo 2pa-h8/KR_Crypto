@@ -7,7 +7,7 @@ namespace task_3
         static void Main(string[] args) // Метод RSA
         {
             Console.WriteLine("Введите сообщение:");
-            var msg = Console.ReadLine().ToUpper();
+            string msg = Console.ReadLine().ToUpper();
 
             Console.WriteLine("Введите 2 простых числа p и q:");
 

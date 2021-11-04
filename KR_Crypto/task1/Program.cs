@@ -1,5 +1,5 @@
-﻿using Helpers;
-using System;
+﻿using System;
+using Helpers.task1;
 
 namespace task1
 {
@@ -9,11 +9,11 @@ namespace task1
         {
             Console.WriteLine("Введите сообщения из 8 символов");
 
-            string message_text = Console.ReadLine().ToUpper();
+            string message_text = Console.ReadLine().ToUpper().Substring(0, 8);
             string message = Convertion.StrToBinaryStr(message_text);
 
             Console.WriteLine("Введите ключ из 8 символов");
-            string key_text = Console.ReadLine().ToUpper();
+            string key_text = Console.ReadLine().ToUpper().Substring(0, 8);
             string key = Convertion.StrToBinaryStr(key_text);
 
             Console.WriteLine("Исходное сообщение           " + message);

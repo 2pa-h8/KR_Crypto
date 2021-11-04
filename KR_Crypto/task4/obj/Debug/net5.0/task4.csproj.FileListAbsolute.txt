@@ -21,7 +21,6 @@ C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task4\bin\Debug\net5.0\task4.run
 C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task4\bin\Debug\net5.0\task4.dll
 C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task4\bin\Debug\net5.0\ref\task4.dll
 C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task4\bin\Debug\net5.0\task4.pdb
-C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task4\obj\Debug\net5.0\task4.csproj.AssemblyReference.cache
 C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task4\obj\Debug\net5.0\task4.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task4\obj\Debug\net5.0\task4.AssemblyInfoInputs.cache
 C:\Users\termi\source\repos\KR_Crypto\KR_Crypto\task4\obj\Debug\net5.0\task4.AssemblyInfo.cs

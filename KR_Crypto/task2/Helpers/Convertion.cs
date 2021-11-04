@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace Helpers.task1
+namespace Helpers.task2
 {
     class Convertion
     {
